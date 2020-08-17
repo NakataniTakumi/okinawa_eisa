@@ -1,0 +1,109 @@
+ .navbar-brand img {
+    height: 85px;
+  }
+header.background{
+  padding-top: 25%;
+}
+
+header.masthead .masthead-subheading{
+  font-size: 4vw;
+  width:50vw;
+  text-align:center;
+  text-shadow:  2px  2px 10px #777 ,
+               -2px  2px 10px #777 ,
+                2px -2px 10px #777 ,
+               -2px -2px 10px #777;
+}
+#mainNav{
+  padding-top:0rem;
+  padding-bottom:0rem;
+  
+}
+.masthead-heading {
+  
+  font-weight : bold;
+  color       : #ffffff;
+  text-shadow:  2px  2px 10px #777 ,
+               -2px  2px 10px #777 ,
+                2px -2px 10px #777 ,
+               -2px -2px 10px #777;
+}
+.page-background {
+  background-image: url("https://www.zentoeisa.com/images/mv/index-mainvisual2.jpg");
+  background-size:cover;
+  background-attachment: scroll;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: #fff;
+}
+.section-heading {
+  text-shadow:  -1px 0px 6px #000000
+}
+
+
+
+.img-fluid1_2 {
+  width:397px;
+  position: relative;
+}
+.my-3 {
+  text-align:center;
+  /* width:200px; */
+  height:50px;
+  padding-left:10%;
+  padding-right:10%;
+}
+.my-3 span.active{}
+
+.text-muted1 {
+  text-align:left;
+  /* width:200px; */
+  height:150px;
+  line-height:20px;
+  display:none;
+  color:black;
+  background-color:rgba(255,255,255, 0.5);
+}
+
+.eisa {
+  padding-top: 20px;
+  height: 600px;
+}
+.text-bottom{
+  cursor:pointer;
+  color:black;
+  background-color:rgba(255,255,255, 0.5);
+  border-radius:10px;
+}
+.hata{
+ width:100%;
+}
+.girl-dancer{
+  width:100%;
+}
+.text-seinenkai{
+  text-align:left;
+}
+.seinenkai{
+  padding-top:10%;
+  padding-bottom:10%;
+}
+.gakuseieisa{
+  background-color:rgba(0,0,0,0.7);
+}
+.text-uppercase{
+  color:white;
+}
+.img-gakuseieisa{
+  width:500px;
+}
+.text-gakuseieisa{
+  color:black;
+  background-color:rgba(255,255,255, 0.5);
+  border-radius:10px;
+}
+.timeline-heading{
+  color:white;
+}
